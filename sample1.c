@@ -7,7 +7,7 @@ CLASS (People) {
 
 int main()
 {
-    People *p = NEW(People);
+    People *p = NEW (People);
 
     p->age = 10;
 
