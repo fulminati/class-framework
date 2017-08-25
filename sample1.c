@@ -1,5 +1,5 @@
 
-#include "c-framework.h"
+#include "class-framework.h"
 
 CLASS (People) {
     int age;
