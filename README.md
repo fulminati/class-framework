@@ -1,4 +1,5 @@
 # class-framework
+Minimalist object-oriented framework for C
 
 ## Install
 
